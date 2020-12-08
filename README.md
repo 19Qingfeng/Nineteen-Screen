@@ -2,7 +2,7 @@
 
 ## WebSite
 
-http://hycoding.com
+http://www.hycoding.com
 
 ## Project setup
 ```
